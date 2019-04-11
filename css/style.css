@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: black;
 }
 
 .overlay-mf {
@@ -130,7 +130,7 @@ a:hover {
 }
 
 .sect-mt4 {
-  margin-top: 4rem;
+  /*margin-top: 4rem;*/
 }
 
 /*--/ Title s /--*/
@@ -475,13 +475,13 @@ a:hover {
 
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
-  background-color: #fff;
+  background-color: black;
   padding-top: 15px;
   padding-bottom: 15px;
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #0078ff;
+  color: white;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
